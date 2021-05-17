@@ -88,6 +88,10 @@ const config: MenuEntry[] = [
         href: 'https://docs.project69.network/',
       },
       {
+        label: 'VFat.Tools',
+        href: 'https://vfat.tools/bsc/project69/',
+      },
+      {
         label: 'Audit (Coming Soon)',
         href: '#',
       },
